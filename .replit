@@ -30,9 +30,14 @@ outputType = "webview"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "python -m streamlit run app.py --server.port 5000 --server.address 0.0.0.0 --server.headless true"
+args = "LD_LIBRARY_PATH=/nix/store/dj06r96j515npcqi9d8af1d1c60bx2vn-gcc-14.3.0-lib/lib:$LD_LIBRARY_PATH python -m streamlit run app.py --server.port 5000 --server.address 0.0.0.0 --server.headless true"
 waitForPort = 5000
 
 [[ports]]
 localPort = 5000
 externalPort = 80
+
+[userenv]
+
+[userenv.development]
+LD_LIBRARY_PATH = "$NIX_LD_LIBRARY_PATH:/nix/store/*gcc*/lib"
