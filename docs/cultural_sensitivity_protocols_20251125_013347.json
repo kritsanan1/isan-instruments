@@ -1,0 +1,47 @@
+{
+  "thai_cultural_protocols": {
+    "hierarchy_respect": {
+      "description": "Respect for Thai social and cultural hierarchy",
+      "implementation": "Proper forms of address, respect for elders and teachers (Ajarn)"
+    },
+    "regional_sensitivity": {
+      "isan_specific": "Recognition of Isan (Northeastern Thai) cultural distinctiveness",
+      "local_variations": "Understanding of local variations in music and customs"
+    },
+    "ceremonial_contexts": {
+      "religious_significance": "Understanding when music has religious or ceremonial importance",
+      "appropriate_usage": "Respecting contexts where recordings should not be made or used"
+    }
+  },
+  "music_specific_considerations": {
+    "instrument_significance": {
+      "khaen": "Bamboo mouth organ with cultural and potentially spiritual significance",
+      "phin": "Lute with traditional learning lineages and cultural contexts"
+    },
+    "performance_contexts": {
+      "ceremonial_vs_entertainment": "Understanding different contexts for performance",
+      "traditional_vs_contemporary": "Respecting traditional forms while acknowledging evolution"
+    },
+    "master_apprentice_relationships": {
+      "traditional_lineages": "Respect for traditional teaching relationships",
+      "permission_protocols": "Understanding who has authority to grant permissions"
+    }
+  },
+  "practical_guidelines": {
+    "initial_contact": {
+      "approach": "Through established academic or cultural institutions",
+      "language": "Bilingual approach with proper Thai language usage",
+      "cultural_brokers": "Work with cultural intermediaries who understand both cultures"
+    },
+    "documentation_process": {
+      "cultural_context": "Document not just music but cultural significance",
+      "performer_stories": "Include performers' own narratives about their music",
+      "community_consultation": "Consult with community members about appropriate usage"
+    },
+    "ongoing_relationships": {
+      "feedback_mechanisms": "Regular check-ins with communities",
+      "benefit_delivery": "Ensure promised benefits are delivered",
+      "cultural_monitoring": "Ongoing cultural sensitivity throughout project"
+    }
+  }
+}

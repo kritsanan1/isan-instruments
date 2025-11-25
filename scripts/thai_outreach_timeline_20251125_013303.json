@@ -1,0 +1,47 @@
+{
+  "week_1": {
+    "activities": [
+      "Research and identify appropriate contact persons",
+      "Prepare bilingual outreach materials",
+      "Review Thai cultural protocols and etiquette",
+      "Draft personalized emails for each organization"
+    ],
+    "expected_outcomes": [
+      "Contact list prepared",
+      "Materials reviewed by cultural advisor"
+    ]
+  },
+  "week_2": {
+    "activities": [
+      "Send initial emails to academic institutions",
+      "Follow up with phone calls if appropriate",
+      "Document responses and interest levels"
+    ],
+    "expected_outcomes": [
+      "Initial responses received",
+      "Meetings scheduled with interested parties"
+    ]
+  },
+  "week_3": {
+    "activities": [
+      "Expand outreach to cultural organizations",
+      "Engage with Isan-specific organizations",
+      "Begin preliminary discussions about collaboration"
+    ],
+    "expected_outcomes": [
+      "Expanded network",
+      "Collaboration frameworks discussed"
+    ]
+  },
+  "week_4": {
+    "activities": [
+      "Follow up with interested organizations",
+      "Refine collaboration proposals",
+      "Plan for cultural consultation and consent processes"
+    ],
+    "expected_outcomes": [
+      "Formal collaborations established",
+      "Consent processes initiated"
+    ]
+  }
+}

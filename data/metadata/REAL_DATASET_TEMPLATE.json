@@ -1,0 +1,232 @@
+# Real Dataset Metadata Template
+
+This template provides the standardized format for documenting authentic Isan instrument recordings with proper cultural attribution and ethical compliance.
+
+## 📁 File: `data/metadata/authentic_recordings.json`
+
+```json
+{
+  "dataset_info": {
+    "name": "Authentic Isan Instruments Collection",
+    "version": "1.0.0",
+    "created_date": "2025-11-25",
+    "last_updated": "2025-11-25",
+    "total_recordings": 0,
+    "ethical_compliance_verified": true,
+    "cultural_attribution_complete": true,
+    "consent_rate": "0%",
+    "data_sources": [
+      "University of Washington Ethnomusicology Archives",
+      "Smithsonian Folkways Recordings",
+      "UNESCO Intangible Cultural Heritage",
+      "Field Recordings (with permission)"
+    ]
+  },
+  
+  "recordings": [
+    {
+      "recording_id": "KH_UW_001",
+      "file_path": "data/raw/authentic_recordings/khaen/university_archives/thao_phet_1973.wav",
+      "instrument": {
+        "type": "khaen",
+        "classification": "bamboo_mouth_organ",
+        "pipes": 16,
+        "origin": "Laos/Northeast Thailand",
+        "cultural_significance": "UNESCO Intangible Cultural Heritage"
+      },
+      
+      "performer": {
+        "name": "Thao Phet",
+        "cultural_background": "Lao-Isan",
+        "experience_level": "master",
+        "generation": "traditional",
+        "teacher_lineage": "documented",
+        "regional_style": "Southern Laos",
+        "consent_status": "archive_permission",
+        "cultural_attribution": "acknowledged"
+      },
+      
+      "performance": {
+        "date_recorded": "1973-12-14",
+        "location": "University of Washington Ethnomusicology Archives",
+        "duration_seconds": 1170,
+        "pieces": [
+          "Lay Sut Sanaen",
+          "Lom Phat Phail", 
+          "Maeng Pu Tom Dale",
+          "Tia Sarawan",
+          "Khab Ngum",
+          "Long Khang Nyai"
+        ],
+        "playing_context": "academic_recording",
+        "ensemble_type": "solo",
+        "tempo_classification": "mixed",
+        "cultural_authenticity": "high"
+      },
+      
+      "audio": {
+        "original_format": "reel_to_reel",
+        "digitization_sample_rate": 96000,
+        "digitization_bit_depth": 24,
+        "current_format": "wav",
+        "channels": 2,
+        "duration_accuracy": "exact",
+        "audio_quality": "excellent_for_period"
+      },
+      
+      "cultural_context": {
+        "tradition": "Lao_classical",
+        "ceremonial_use": "entertainment_and_ritual",
+        "social_function": "performance_art",
+        "geographical_origin": "Laos_Isan_region",
+        "historical_period": "mid_20th_century",
+        "preservation_status": "archived",
+        "UNESCO_status": "related_tradition"
+      },
+      
+      "source": {
+        "archive": "University_of_Washington_Ethnomusicology_Archives",
+        "collection_id": "1973038",
+        "catalog_number": "UWEA_1973038",
+        "access_rights": "research_and_education",
+        "usage_restrictions": "non_commercial_only",
+        "attribution_required": true,
+        "cultural_sensitive": false,
+        "access_procedure": "contact_archivist"
+      },
+      
+      "ethical_compliance": {
+        "consent_type": "archive_permission",
+        "IRB_approval": "historical_exemption",
+        "cultural_protocols_followed": "archival_standards",
+        "community_benefits": "education_access",
+        "attribution_complete": true,
+        "usage_tracking": "required",
+        "withdrawal_rights": "archival_policy"
+      },
+      
+      "quality_metrics": {
+        "audio_clarity": "excellent",
+        "cultural_authenticity": "verified",
+        "performance_mastery": "master_level",
+        "recording_fidelity": "high_for_period",
+        "documentation_completeness": "comprehensive",
+        "cultural_significance": "significant"
+      }
+    },
+    
+    {
+      "recording_id": "KH_SF_001", 
+      "file_path": "data/raw/authentic_recordings/khaen/smithsonian_folkways/laos_traditional_south.wav",
+      "instrument": {
+        "type": "khaen",
+        "classification": "bamboo_mouth_organ", 
+        "pipes": 16,
+        "origin": "Southern Laos",
+        "cultural_significance": "National instrument of Laos"
+      },
+      
+      "performer": {
+        "name": "Various Artists",
+        "cultural_background": "Lao",
+        "experience_level": "professional",
+        "generation": "traditional",
+        "consent_status": "commercial_license",
+        "cultural_attribution": "acknowledged"
+      },
+      
+      "performance": {
+        "date_recorded": "1970s",
+        "location": "Southern Laos",
+        "duration_seconds": 2400,
+        "pieces": [
+          "ritual_music",
+          "wedding_music", 
+          "Lam_Sithandone"
+        ],
+        "playing_context": "cultural_documentary",
+        "cultural_authenticity": "high"
+      },
+      
+      "source": {
+        "archive": "Smithsonian_Folkways_Recordings",
+        "collection": "Laos_Traditional_Music_of_the_South",
+        "album_id": "FW04056",
+        "access_rights": "licensed_for_research",
+        "usage_restrictions": "academic_use_only",
+        "attribution_required": true,
+        "commercial_terms": "educational_exemption"
+      },
+      
+      "ethical_compliance": {
+        "consent_type": "commercial_license",
+        "cultural_attribution": "Smithsonian_policy",
+        "usage_tracking": "citation_required"
+      }
+    }
+  ],
+  
+  "consent_tracking": {
+    "total_consented": 0,
+    "pending_consent": 0,
+    "withdrawn": 0,
+    "consent_rate": "0%",
+    "last_consent_update": "2025-11-25"
+  },
+  
+  "cultural_attribution": {
+    "communities_recognized": [
+      "Lao_Community",
+      "Isan_Community", 
+      "Northeast_Thailand_Traditional"
+    ],
+    "benefit_sharing_status": "under_development",
+    "cultural_experts_consulted": [
+      "University_of_Washington_Ethnomusicology",
+      "Smithsonian_Folkways"
+    ],
+    "community_feedback": "pending"
+  }
+}
+```
+
+## 🎯 Next Steps for Real Data Collection
+
+### **Immediate Actions (This Week)**
+1. **Contact UW Archives**: Email ethnoarc@uw.edu about accessing Thao Phet recordings
+2. **Smithsonian Licensing**: Inquire about academic licensing for Folkways recordings
+3. **UNESCO Resources**: Explore khaen documentation and cultural materials
+
+### **Short-term Goals (Next 2-4 weeks)**
+1. **Secure Archive Access**: Get formal permission to use academic recordings
+2. **Cultural Expert Consultation**: Connect with ethnomusicologists
+3. **Community Outreach**: Begin building relationships with Thai cultural organizations
+
+### **Medium-term Objectives (1-3 months)**
+1. **Field Recording Preparation**: Develop ethical collection protocols
+2. **Community Partnerships**: Establish formal agreements with cultural groups
+3. **Funding Applications**: Apply for grants supporting ethical cultural research
+
+### **Long-term Vision (3-12 months)**
+1. **Authentic Dataset Creation**: Replace synthetic data with culturally verified recordings
+2. **Community Benefits**: Ensure fair benefit sharing with source communities
+3. **Cultural Preservation**: Support traditional music preservation efforts
+
+## 📞 Key Contacts for Real Data
+
+### **Academic Archives**
+- **UW Ethnomusicology**: ethnoarc@uw.edu (Thao Phet khaen recordings)
+- **Smithsonian Folkways**: folkways@si.edu (licensing inquiries)
+- **UNESCO ICH**: ich@unesco.org (khaen heritage documentation)
+
+### **Cultural Organizations**
+- **Thai Cultural Centers**: Local embassy cultural departments
+- **Isan Community Groups**: Regional cultural preservation societies
+- **Academic Partners**: Southeast Asian studies programs
+
+### **Ethical Review**
+- **Institutional Review Board**: University ethics committees
+- **Cultural Sensitivity Training**: Professional development resources
+- **Community Consultation**: Local cultural experts and elders
+
+This template provides the foundation for ethically collecting and documenting authentic Isan instrument recordings while ensuring proper cultural attribution and community benefits.

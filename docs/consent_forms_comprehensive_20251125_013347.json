@@ -1,0 +1,142 @@
+{
+  "performer_consent": {
+    "form_title": "แบบฟอร์มความยินยอมสำหรับการบันทึกเสียงดนตรีไทย / Consent Form for Thai Music Recordings",
+    "form_version": "1.0",
+    "date_created": "2025-11-25",
+    "language": "Thai/English bilingual",
+    "ethical_standards": [
+      "Free, Prior, and Informed Consent (FPIC)",
+      "UNESCO cultural heritage guidelines",
+      "Academic IRB standards"
+    ],
+    "performer_information": {
+      "personal_details": {
+        "thai_fields": [
+          "ชื่อ-นามสกุล",
+          "ชื่อเล่น",
+          "อายุ",
+          "ที่อยู่",
+          "เบอร์โทรศัพท์",
+          "อีเมล (ถ้ามี)"
+        ],
+        "english_fields": [
+          "Full Name",
+          "Nickname",
+          "Age",
+          "Address",
+          "Phone Number",
+          "Email (if available)"
+        ]
+      },
+      "musical_background": {
+        "thai": [
+          "ประสบการณ์การเล่นดนตรี",
+          "เครื่องดนตรีที่เล่น",
+          "ระดับความชำนาญ",
+          "การสอน/การถ่ายทอด"
+        ],
+        "english": [
+          "Musical Experience",
+          "Instruments Played",
+          "Skill Level",
+          "Teaching/Transmission Experience"
+        ]
+      }
+    },
+    "consent_elements": {
+      "purpose_of_recording": {
+        "thai": "การบันทึกเสียงนี้มีวัตถุประสงค์เพื่อ:\n1. การวิจัยและอนุรักษ์ดนตรีไทยแบบดั้งเดิม\n2. การศึกษาและการเรียนการสอน\n3. การพัฒนาระบบ AI สำหรับการจำแนกเครื่องดนตรี\n4. การเผยแพร่ในงานวิชาการและการอนุรักษ์วัฒนธรรม",
+        "english": "This recording is intended for:\n1. Research and preservation of traditional Thai music\n2. Educational and teaching purposes\n3. Development of AI systems for instrument classification\n4. Academic publication and cultural preservation"
+      },
+      "usage_scope": {
+        "thai": "ขอบเขตการใช้งาน:\n- ใช้เพื่อการวิจัยที่ไม่แสวงหากำไร\n- ใช้ในสื่อการเรียนการสอน\n- ใช้ในการเผยแพร่ทางวิชาการ\n- ไม่ใช้เพื่อการค้าโดยไม่ได้รับอนุญาต",
+        "english": "Usage Scope:\n- For non-commercial research purposes\n- For educational materials\n- For academic publication\n- Not for commercial use without permission"
+      },
+      "cultural_attribution": {
+        "thai": "การให้เครดิตและการอ้างอิงจะระบุชื่อท่านและชุมชนของท่านเสมอ",
+        "english": "Attribution will always include your name and community"
+      },
+      "withdrawal_rights": {
+        "thai": "ท่านมีสิทธิ์ในการถอนความยินยอมเมื่อใดก็ได้โดยไม่ต้องแจ้งเหตุผล",
+        "english": "You have the right to withdraw consent at any time without providing reasons"
+      }
+    },
+    "consent_options": {
+      "full_consent": {
+        "thai": "ฉันยินยอมให้บันทึกเสียงและใช้งานตามวัตถุประสงค์ที่ระบุ",
+        "english": "I consent to recording and usage as specified above"
+      },
+      "limited_consent": {
+        "thai": "ฉันยินยอมเฉพาะบางส่วน (โปรดระบุ):",
+        "english": "I consent with limitations (please specify):"
+      },
+      "no_consent": {
+        "thai": "ฉันไม่ยินยอม",
+        "english": "I do not consent"
+      }
+    },
+    "cultural_considerations": {
+      "thai_cultural_protocols": [
+        "Respect for Thai cultural hierarchy (Ajarn/student relationships)",
+        "Recognition of regional variations in Isan music",
+        "Understanding of ceremonial vs. entertainment contexts",
+        "Respect for traditional learning lineages",
+        "Acknowledgment of spiritual/ceremonial significance"
+      ],
+      "community_benefits": [
+        "Educational opportunities for Thai students",
+        "Cultural preservation documentation",
+        "International recognition of Thai musical traditions",
+        "Potential cultural tourism benefits",
+        "Academic collaboration opportunities"
+      ]
+    }
+  },
+  "community_consent": {
+    "form_title": "แบบฟอร์มความยินยอมของชุมชน / Community Consent Form",
+    "target_groups": [
+      "Local communities",
+      "Cultural groups",
+      "Musical ensembles",
+      "Temple communities"
+    ],
+    "community_information": {
+      "community_name": {
+        "thai": "ชื่อชุมชน",
+        "english": "Community Name"
+      },
+      "location": {
+        "thai": "ที่ตั้ง",
+        "english": "Location"
+      },
+      "community_leader": {
+        "thai": "ผู้นำชุมชน",
+        "english": "Community Leader"
+      },
+      "cultural_significance": {
+        "thai": "ความสำคัญทางวัฒนธรรม",
+        "english": "Cultural Significance"
+      }
+    },
+    "collective_consent_process": {
+      "thai": "กระบวนการยินยอมของชุมชน:\n1. การประชุมชุมชนเพื่ออธิบายโครงการ\n2. การอภิปรายและตอบคำถาม\n3. การตัดสินใจร่วมกัน\n4. การลงนามโดยผู้แทนชุมชน",
+      "english": "Community Consent Process:\n1. Community meeting to explain the project\n2. Discussion and question answering\n3. Collective decision-making\n4. Signing by community representatives"
+    }
+  },
+  "academic_consent": {
+    "form_title": "Academic Research Consent Form",
+    "institutional_oversight": "Institutional Review Board (IRB) approval",
+    "research_standards": [
+      "Academic integrity",
+      "Cultural sensitivity",
+      "Ethical research practices"
+    ],
+    "research_use_specifications": {
+      "data_analysis": "Audio analysis for machine learning research",
+      "publication_rights": "Academic publication with proper attribution",
+      "data_sharing": "Limited sharing with academic collaborators",
+      "duration": "Research use for [X] years with renewal options"
+    }
+  },
+  "created_date": "20251125_013347"
+}

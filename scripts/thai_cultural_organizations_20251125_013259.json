@@ -1,0 +1,71 @@
+{
+  "academic_institutions": {
+    "silpakorn_university": {
+      "name": "Silpakorn University - College of Music",
+      "location": "Bangkok, Thailand",
+      "contact": "music@su.ac.th",
+      "focus": "Thai classical music, ethnomusicology, music preservation",
+      "relevance": "Leading academic institution for Thai music studies"
+    },
+    "chulalongkorn_university": {
+      "name": "Chulalongkorn University - Faculty of Fine and Applied Arts",
+      "location": "Bangkok, Thailand",
+      "contact": "finearts@chula.ac.th",
+      "focus": "Thai performing arts, cultural preservation",
+      "relevance": "Premier university with strong cultural studies programs"
+    },
+    "mahasarakham_university": {
+      "name": "Mahasarakham University - Faculty of Fine and Applied Arts",
+      "location": "Maha Sarakham, Isan region",
+      "contact": "finearts@msu.ac.th",
+      "focus": "Isan cultural studies, local music traditions",
+      "relevance": "Located in heart of Isan region, specializes in Northeastern Thai culture"
+    },
+    "khon_kaen_university": {
+      "name": "Khon Kaen University - College of Music",
+      "location": "Khon Kaen, Isan region",
+      "contact": "music@kku.ac.th",
+      "focus": "Northeastern Thai music, cultural preservation",
+      "relevance": "Major university in Isan with strong music program"
+    }
+  },
+  "cultural_organizations": {
+    "thailand_cultural_centre": {
+      "name": "Thailand Cultural Centre",
+      "location": "Bangkok, Thailand",
+      "contact": "info@culturalcenter.or.th",
+      "focus": "Thai cultural promotion, traditional performances",
+      "relevance": "Government cultural institution with performance archives"
+    },
+    "siam_society": {
+      "name": "The Siam Society",
+      "location": "Bangkok, Thailand",
+      "contact": "info@siam-society.org",
+      "focus": "Thai cultural heritage, academic research",
+      "relevance": "Historical society with extensive cultural archives"
+    },
+    "thai_performing_arts_society": {
+      "name": "Thai Performing Arts Society",
+      "location": "Bangkok, Thailand",
+      "contact": "info@thaiperformingarts.org",
+      "focus": "Traditional Thai performing arts preservation",
+      "relevance": "Specialized organization for Thai performance traditions"
+    }
+  },
+  "isan_specific_organizations": {
+    "isan_cultural_centre": {
+      "name": "Isan Cultural Centre",
+      "location": "Khon Kaen, Thailand",
+      "contact": "info@isanculturalcenter.org",
+      "focus": "Isan cultural preservation, traditional music",
+      "relevance": "Dedicated to preserving Northeastern Thai culture"
+    },
+    "morlam_lam_klom_association": {
+      "name": "Mor Lam and Lam Klom Association",
+      "location": "Various Isan provinces",
+      "contact": "morlam.association@thai-music.org",
+      "focus": "Traditional Isan music, Mor Lam performances",
+      "relevance": "Specific to Isan musical traditions including khaen and phin"
+    }
+  }
+}

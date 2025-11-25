@@ -1,0 +1,44 @@
+UNESCO KHAEN RESEARCH METHODOLOGY
+==================================================
+
+ACCESS METHODOLOGY:
+{
+  "step1_direct_web_access": {
+    "method": "Direct browser access to UNESCO ICH website",
+    "urls": [
+      "https://ich.unesco.org/en/RL/khaen-music-of-the-lao-people-01296",
+      "https://ich.unesco.org/en/video/41272",
+      "https://www.unesco.org/archives/multimedia/document-4630"
+    ],
+    "requirements": "JavaScript-enabled browser",
+    "expected_content": [
+      "Official UNESCO documentation",
+      "Video recordings of khaen performances",
+      "Cultural context information",
+      "Inscription decision documents"
+    ]
+  },
+  "step2_academic_citation": {
+    "recommended_citation": "UNESCO. (2017). Khaen music of the Lao people. Intangible Cultural Heritage of Humanity. Retrieved from https://ich.unesco.org/en/RL/khaen-music-of-the-lao-people-01296",
+    "cultural_attribution": "UNESCO Intangible Cultural Heritage designation recognizes the cultural value of khaen music",
+    "usage_guidelines": "Follow UNESCO guidelines for cultural heritage documentation and attribution"
+  },
+  "step3_complementary_research": {
+    "academic_sources": [
+      "University of Washington Ethnomusicology Archives",
+      "Smithsonian Folkways Recordings",
+      "Library of Congress American Folklife Center",
+      "Academic institutions with Southeast Asian music programs"
+    ],
+    "search_strategy": "Combine UNESCO designation with academic archives for comprehensive documentation"
+  }
+}
+
+ETHICAL FRAMEWORK:
+{
+  "cultural_respect": "UNESCO designation recognizes khaen music as humanity's shared cultural heritage",
+  "proper_attribution": "Always cite UNESCO as the source of cultural heritage designation",
+  "non_commercial_use": "UNESCO materials should be used for educational and cultural preservation purposes",
+  "community_benefit": "Research should benefit the communities that maintain these traditions",
+  "academic_integrity": "Follow UNESCO guidelines for cultural heritage research and documentation"
+}
